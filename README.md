@@ -13,5 +13,11 @@ To get it running:
 
 4. Be sure roscore is running: ````$ roscore &```` (Runs roscore in background, you can continue in the same terminal session)
 
-5. Run the simulator: ````$ rosrun uwsim uwsim --configfile auv-simulator/UWSim/kraken/scenes/UWSim_scene.xml````
+5. Run the simulator:
+
+
+````
+$ cd auv-simulator/UWSim/kraken/scenes  
+$ rosrun uwsim uwsim --configfile UWSim_scene.xml
+````
 
