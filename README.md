@@ -7,7 +7,7 @@ To get it running:
 
 1. Move to ROS Workspace: ````$ roscd ````
 
-2. Clone the repository from github: ````$ git pull https://github.com/ankeshanand/auv-simulator.git ````
+2. Clone the repository from github: ````$ git clone https://github.com/ankeshanand/auv-simulator.git ````
 
 3. Install UWSim: ````$ apt-get install ros-groovy-uwsim````
 
